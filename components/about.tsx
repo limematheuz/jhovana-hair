@@ -25,7 +25,7 @@ export default function About() {
             </div>
 
             {/* Stats Cards */}
-            <div className="absolute -bottom-8 -right-8 bg-white dark:bg-gray-800 p-6 rounded-xl shadow-xl border border-brand-details dark:border-gray-700">
+            <div className="absolute -bottom-8 -right-4 bg-white dark:bg-gray-800 p-6 rounded-xl shadow-xl border border-brand-details dark:border-gray-700">
               <div className="text-center">
                 <div className="text-2xl font-bold text-brand-accent-600 dark:text-brand-secondary-400">8+</div>
                 <div className="text-sm text-gray-600 dark:text-gray-300">Años de experiencia</div>
